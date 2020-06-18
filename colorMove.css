@@ -1,0 +1,26 @@
+#canvas {
+    background-color:blue;
+
+
+
+
+}
+#header{
+   width: 50%;  
+  float:left;
+}
+#container{
+   width: 700px;
+   background-color: #ffcc33;
+   text-align: center;
+}
+#myCanvas{
+background-color: lightblue;
+
+
+
+
+}
+#clockT{
+   float:left;
+}
